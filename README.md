@@ -5,7 +5,7 @@ python language and the arcade library. This game is played using the WASD keys 
 THe goal is to reach the flag at the end. This game was built to practice and refine my skills and
 understanding of programming concepts. A link to a demonstration video is provided.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fgUPFMf3Cwg)
 
 # Development Environment
 
